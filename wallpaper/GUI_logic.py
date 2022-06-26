@@ -131,3 +131,4 @@ def visual_wallpaper():
     img = pygame.image.load(r'C:\обои\image.jpg')
     img = pygame.transform.scale(img, (450,250))
     sc.blit(img, (500, 50))
+###
